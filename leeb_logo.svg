@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
-  <title>LEEB BIMI Logo</title>
-  <text x="50%" y="50%" font-family="Arial" font-size="64" fill="black" text-anchor="middle" dominant-baseline="middle">LEEB</text>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" width="96" height="96">
+  <title>LEEB Logo</title>
+  <desc>Logo LEEB para BIMI</desc>
+  <rect width="100%" height="100%" fill="#ffffff"/> <!-- Fondo sólido blanco -->
+  <text x="50%" y="50%" font-family="Arial" font-size="32" fill="black" text-anchor="middle">LEEB</text>
 </svg>
